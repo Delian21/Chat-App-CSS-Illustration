@@ -258,7 +258,7 @@ p#price2 {
     margin-left: 0.8rem;
     border-radius: 2rem;
     height: 2.7rem;
-    width: 17.1rem;
+    width: 18.1rem;
     background: var(--white);
 }
 
@@ -273,7 +273,7 @@ p#message {
     align-items: center;
     justify-content: center;
     position: relative;
-    left: 7rem;
+    left: 8rem;
     top: 0.35rem;
     background: var(--very-dark-desaturated-violet);
     color: var(--very-light-magenta);
